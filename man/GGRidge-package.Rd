@@ -10,17 +10,17 @@ combines the ridge regression method with the graphical model
 for high-dimensional data (i.e. the number of predictors exceeds
 the number of cases) or ill-conditioned data (e.g. in the presence
 of multicollinearity among predictors). The package reduces the mean square errors and the extent of over-shrinking of predictors
-as compared to the ridge method. 
+as compared to the ridge method.
 }
 \details{
 \tabular{ll}{
 Package: \tab GGRidge\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2021-1-28\cr
+Version: \tab 1.1.0\cr
+Date: \tab 2023-10-01\cr
 License: \tab GPL-2 \cr
 }
- 
+
 }
 \author{
 Saeed Aldahmani and Taoufik Zoubeidi
